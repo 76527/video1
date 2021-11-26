@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+    padding: 30px;
+    font-size: 50px;
+}
+.logo{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
+main{
+    background-color: linear-gradient(green, white);
+}
+header{
+    background-color: lightblue;
+    opacity: 0.5;
+}
